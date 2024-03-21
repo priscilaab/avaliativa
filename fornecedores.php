@@ -2,7 +2,7 @@
 
 /* 
     O array abaixo será listado no formato de tabela no corpo do
-    documento HTML: 
+    documento HTML::
 */
 $fornecedores = array(
     array(

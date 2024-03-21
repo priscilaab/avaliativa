@@ -55,7 +55,7 @@ $artigos = array(
             <div class="col-md-9 py-3">
                 <h2>Listagem de Artigos</h2>
 
-                <!-- Com base no modelo abaixo, liste os artigos do array:  -->
+                <!-- Com base no modelo abaixo, liste os artigos do array::  -->
                 <?php foreach ($artigos as $v) { ?>
                     <div class="card mb-3">
                         <div class="card-body">

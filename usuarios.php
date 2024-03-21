@@ -142,7 +142,7 @@ $usuarios = array(
             </thead>
             <tbody>
                 <!-- Com base no modelo abaixo, exiba os usuários contidos
-                no array. -->
+                no array.. -->
 <?php foreach($usuarios as $v){ ?>
                 <tr>
                     <td><?=$v['id'];?></td>
